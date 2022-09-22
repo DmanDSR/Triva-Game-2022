@@ -3,8 +3,12 @@
 }
 
 body {
-    hight: 100
-
+    height: 100vh;
+    width: 100vw;
+    background: url(https://wallpapers.com/images/hd/rick-and-morty-under-the-sea-ocidh9za5jy6pao4.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .box {
